@@ -5,6 +5,7 @@
 //  Created by USER on 2020/01/07.
 //  Copyright © 2020 Akidon. All rights reserved.
 
+
 import UIKit
 //２次元配列　セルの内容が入る
 var cellList:[[String]] = [["Tokyo","Osaka"],["NewYork"]]
